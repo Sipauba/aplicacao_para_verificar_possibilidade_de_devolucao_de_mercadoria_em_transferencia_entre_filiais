@@ -1,0 +1,2 @@
+# aplicacao_para_verificar_possibilidade_de_devolucao_de_mercadoria_em_transferencia_entre_filiais
+Esta aplicação tem por objetivo fazer uma verificação no histórico de entradas de produtos em uma determinada filial da empresa e verificar se é possível fazer devolução de mercadoria como transferência a fim de evitar pagar impostos de forma desnecessária, tendo em vista que uma devolução não paga imposto
